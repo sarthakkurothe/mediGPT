@@ -66,7 +66,5 @@ MONGO_URL = "your_mongo_db_url"
 
 ![Screenshot 2024-03-30 152518](https://github.com/sarthakkurothe/mediGPT/assets/86231596/9ae701aa-2560-446c-b6dc-8c37d477cb65)
 ![Screenshot 2024-03-30 152533](https://github.com/sarthakkurothe/mediGPT/assets/86231596/372e70f8-c075-44ce-bf57-62b6fe5f056f)
-![Screenshot 2024-03-30 152533](https://github.com/sarthakkurothe/mediGPT/assets/86231596/a0e6d72a-8216-49cf-aee8-d1b7150ffdd3)
-
-
+![Screenshot 2024-03-30 152552](https://github.com/sarthakkurothe/mediGPT/assets/86231596/ce8d4c28-33db-4d3f-b503-f3109225bb25)
 
