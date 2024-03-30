@@ -39,7 +39,7 @@ mongoose
   .then((result) => {
     const PORT_NO = process.env.PORT || 3000; 
     app.listen(PORT_NO, () => { 
-      console.log(`Gemini server is running on port ${PORT_NO}`);
+      console.log(`MediGPT server is running on port ${PORT_NO}`);
     });
   })
   .catch((err) => {
